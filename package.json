@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Colin Hickey",
+	"description": "exercise on FCC to learn back end",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
